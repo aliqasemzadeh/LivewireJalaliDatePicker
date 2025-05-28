@@ -150,4 +150,22 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 ## AI Created
 
-Hi This package is built with AI.
+This package was developed with the assistance of artificial intelligence technologies:
+
+### Development Process
+- **Initial Design**: The component architecture and API were designed with the help of GPT-4, focusing on developer experience and Laravel best practices.
+- **Code Generation**: Core functionality was scaffolded using AI code generation, then manually refined and tested.
+- **Documentation**: This documentation was enhanced with AI assistance to ensure clarity and completeness.
+
+### AI Benefits in This Package
+- **Optimized Algorithms**: The Jalali calendar calculations were optimized through AI analysis of different implementation approaches.
+- **Consistent Styling**: Component styling and structure follow consistent patterns recommended by AI based on modern web development practices.
+- **Comprehensive Testing**: Test cases were expanded using AI-suggested edge cases for date handling.
+
+### Human Oversight
+While AI played a significant role in development, all code was reviewed, tested, and refined by human developers to ensure:
+- Security best practices are followed
+- Performance is optimized for Laravel applications
+- The component integrates seamlessly with Livewire and Alpine.js
+
+If you have suggestions for improvements or encounter any issues, please feel free to contribute or open an issue on the GitHub repository.
